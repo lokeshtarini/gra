@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/user-profile-edit-bg.png);
+    background-size: cover;
+}
+
+
+
+  
+  .len{
+    height: 400px;
+    background-color: #2e2f3049;
+  }
+  .copy{
+    width: 400px;
+    height: 60px;
+    border-radius: 5px;
+  }
+  .hero{
+    width: 400px;
+    height: 40px;
+  }
